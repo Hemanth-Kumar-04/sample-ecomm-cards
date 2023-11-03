@@ -2,7 +2,7 @@ import { AiFillStar } from "react-icons/ai";
 
 const data = [
   {
-    img: "https://m.media-amazon.com/images/I/6125yAfsJKL._AC_UX575_.jpg",
+    img: "https://user-images.githubusercontent.com/139763023/280343403-36125e5f-264a-4647-95a4-41a97639f876.png",
     title: "Nike Air Monarch IV",
     star: <AiFillStar className="rating-star" />,
     descriptions:"description 1 ",
@@ -13,19 +13,19 @@ const data = [
     category: "sneakers",
   },
   {
-    img: "https://m.media-amazon.com/images/I/519MRhRKGFL._AC_UX575_.jpg",
+    img: "https://user-images.githubusercontent.com/139763023/280341264-f06678af-2d02-4d9b-898f-69553d6effa7.png",
     title: "Nike Air Vapormax Plus",
     star: <AiFillStar className="rating-star" />,
     descriptions:"description 1 ",
     prevPrice: "$140,00",
     newPrice: "200",
-    company: "Nike",
+    company: "Adidas",
     color: "red",
     category: "sneakers",
   },
 
   {
-    img: "https://m.media-amazon.com/images/I/51+P9uAvb1L._AC_UY695_.jpg",
+    img: "https://user-images.githubusercontent.com/139763023/280342939-168e7b80-8d49-4a72-8726-95a7efd8a077.png",
     title: "Nike Waffle One Sneaker",
     star: <AiFillStar className="rating-star" />,
     descriptions:"description 1 ",
@@ -36,18 +36,18 @@ const data = [
     category: "sneakers",
   },
   {
-    img: "https://m.media-amazon.com/images/I/71oEKkghg-L._AC_UX575_.jpg",
+    img: "https://user-images.githubusercontent.com/139763023/280341483-964f200b-0d8c-48a1-b482-b27a2dc6cc7f.png",
     title: "Nike Running Shoe",
     star: <AiFillStar className="rating-star" />,
     descriptions:"description 1 ",
     prevPrice: "$140,00",
     newPrice: "200",
-    company: "Adidas",
+    company: "Nike",
     color: "black",
     category: "sneakers",
   },
   {
-    img: "https://m.media-amazon.com/images/I/41M54ztS6IL._AC_SY625._SX._UX._SY._UY_.jpg",
+    img: "https://user-images.githubusercontent.com/139763023/280343264-57cc4a0a-a1c4-423c-b891-510c4f50273c.png",
     title: "Flat Slip On Pumps",
     star: <AiFillStar className="rating-star" />,
     descriptions:"description 1 ",
@@ -58,7 +58,7 @@ const data = [
     category: "flats",
   },
   {
-    img: "https://m.media-amazon.com/images/I/71zKuNICJAL._AC_UX625_.jpg",
+    img: "https://user-images.githubusercontent.com/139763023/280343264-57cc4a0a-a1c4-423c-b891-510c4f50273c.png",
     title: "Knit Ballet Flat",
     star: <AiFillStar className="rating-star" />,
     descriptions:"description 1 ",
@@ -70,7 +70,7 @@ const data = [
   },
 
   {
-    img: "https://m.media-amazon.com/images/I/61V9APfz97L._AC_UY695_.jpg",
+    img: "https://user-images.githubusercontent.com/139763023/280341650-0be8b9d6-42ee-43f2-bf7e-62890118acd1.png",
     title: "Loafer Flats",
     star: <AiFillStar className="rating-star" />,
     descriptions:"description 1 ",
@@ -82,7 +82,7 @@ const data = [
   },
 
   {
-    img: "https://m.media-amazon.com/images/I/71VaQ+V6XnL._AC_UY695_.jpg",
+    img: "https://user-images.githubusercontent.com/139763023/280342939-168e7b80-8d49-4a72-8726-95a7efd8a077.png",
     title: "Nike Zoom Freak",
     star: <AiFillStar className="rating-star" />,
     descriptions:"description 1 ",
@@ -92,19 +92,6 @@ const data = [
     color: "green",
     category: "sneakers",
   },
-
-  {
-    img: "https://m.media-amazon.com/images/I/61-cBsLhJHL._AC_UY695_.jpg",
-    title: "Nike Men's Sneaker",
-    star: <AiFillStar className="rating-star" />,
-    descriptions:"description 1 ",
-    prevPrice: "$140,00",
-    newPrice: "200",
-    company: "Adidas",
-    color: "blue",
-    category: "sneakers",
-  },
-
   {
     img: "https://m.media-amazon.com/images/I/81xXDjojYKS._AC_UX575_.jpg",
     title: "PUMA BLACK-OCE",
@@ -139,7 +126,7 @@ const data = [
     category: "sneakers",
   },
   {
-    img: "https://m.media-amazon.com/images/I/61TM6Q9dvxL._AC_UX575_.jpg",
+    img: "https://user-images.githubusercontent.com/139763023/280343009-528b55af-8157-40bf-bb2b-8d40a58593a2.png",
     title: "Roma Basic Sneaker",
     star: <AiFillStar className="rating-star" />,
     descriptions:"description 1 ",
@@ -150,19 +137,7 @@ const data = [
     category: "sneakers",
   },
   {
-    img: "https://m.media-amazon.com/images/I/7128-af7joL._AC_UY575_.jpg",
-    title: "Pacer Future Doubleknit",
-    star: <AiFillStar className="rating-star" />,
-    descriptions:"description 1 ",
-    prevPrice: "$140,00",
-    newPrice: "150",
-    company: "Puma",
-    color: "black",
-    category: "sneakers",
-  },
-
-  {
-    img: "https://m.media-amazon.com/images/I/81xXDjojYKS._AC_UX575_.jpg",
+    img: "https://user-images.githubusercontent.com/139763023/280342447-90c57470-0e33-4940-8da3-1be8dbcd5a6c.png",
     title: "Fusion Evo Golf Shoe",
     star: <AiFillStar className="rating-star" />,
     descriptions:"description 1 ",
@@ -173,18 +148,7 @@ const data = [
     category: "sneakers",
   },
   {
-    img: "https://m.media-amazon.com/images/I/719gdz8lsTS._AC_UX575_.jpg",
-    title: "Rainbow Chex Skate",
-    star: <AiFillStar className="rating-star" />,
-    descriptions:"description 1 ",
-    prevPrice: "$140,00",
-    newPrice: "100",
-    company: "Vans",
-    color: "red",
-    category: "flats",
-  },
-  {
-    img: "https://m.media-amazon.com/images/I/71gpFHJlnoL._AC_UX575_.jpg",
+    img: "https://user-images.githubusercontent.com/139763023/280343075-0e2e4eeb-60e2-460f-942e-5544648c3ff6.png",
     title: "Low-Top Trainers",
     star: <AiFillStar className="rating-star" />,
     descriptions:"description 1 ",
@@ -195,29 +159,7 @@ const data = [
     category: "sandals",
   },
   {
-    img: "https://m.media-amazon.com/images/I/71pf7VFs9CL._AC_UX575_.jpg",
-    title: "Vans Unisex Low-Top",
-    star: <AiFillStar className="rating-star" />,
-    descriptions:"description 1 ",
-    prevPrice: "$140,00",
-    newPrice: "100",
-    company: "Vans",
-    color: "blue",
-    category: "sandals",
-  },
-  {
-    img: "https://m.media-amazon.com/images/I/61N4GyWcHPL._AC_UY575_.jpg",
-    title: "Classic Bandana Sneakers",
-    star: <AiFillStar className="rating-star" />,
-    descriptions:"description 1 ",
-    prevPrice: "$140,00",
-    newPrice: "50",
-    company: "Nike",
-    color: "black",
-    category: "sandals",
-  },
-  {
-    img: "https://m.media-amazon.com/images/I/61bncQ44yML._AC_UX695_.jpg",
+    img: "https://user-images.githubusercontent.com/139763023/280342604-6e24b290-1f14-4519-83a6-96ea93bd7e99.png",
     title: "Chunky High Heel",
     star: <AiFillStar className="rating-star" />,
     descriptions:"description 1 ",
@@ -228,7 +170,7 @@ const data = [
     category: "heels",
   },
   {
-    img: "https://m.media-amazon.com/images/I/71czu7WgGuL._AC_UY695_.jpg",
+    img: "https://user-images.githubusercontent.com/139763023/280342604-6e24b290-1f14-4519-83a6-96ea93bd7e99.png",
     title: "Slip On Stiletto High Heel",
     star: <AiFillStar className="rating-star" />,
     descriptions:"description 1 ",
@@ -239,7 +181,7 @@ const data = [
     category: "heels",
   },
   {
-    img: "https://m.media-amazon.com/images/I/61men05KRxL._AC_UY625_.jpg",
+    img: "https://user-images.githubusercontent.com/139763023/280342660-2983925f-ab48-408b-824c-2adca2643589.png",
     title: "DREAM PAIRS Court Shoes",
     star: <AiFillStar className="rating-star" />,
     descriptions:"description 1 ",
@@ -250,7 +192,7 @@ const data = [
     category: "heels",
   },
   {
-    img: "https://m.media-amazon.com/images/I/519MRhRKGFL._AC_UX575_.jpg",
+    img: "https://user-images.githubusercontent.com/139763023/280343125-ce8e3612-0091-4af7-8abe-5182061499b0.png",
     title: "Nike Air Vapormax Plus",
     star: <AiFillStar className="rating-star" />,
     descriptions:"description 1 ",
@@ -262,7 +204,7 @@ const data = [
   },
 
   {
-    img: "https://m.media-amazon.com/images/I/51PGWTXgf-L._AC_UY625_.jpg",
+    img: "https://user-images.githubusercontent.com/139763023/280342604-6e24b290-1f14-4519-83a6-96ea93bd7e99.png",
     title: "Low Mid Block Heels",
     star: <AiFillStar className="rating-star" />,
     descriptions:"description 1 ",
@@ -273,7 +215,7 @@ const data = [
     category: "heels",
   },
   {
-    img: "https://m.media-amazon.com/images/I/616sA5XUKtL._AC_UY675_.jpg",
+    img: "https://user-images.githubusercontent.com/139763023/280342604-6e24b290-1f14-4519-83a6-96ea93bd7e99.png",
     title: "Chunky High Heel",
     star: <AiFillStar className="rating-star" />,
     descriptions:"description 1 ",
@@ -284,7 +226,7 @@ const data = [
     category: "heels",
   },
   {
-    img: "https://m.media-amazon.com/images/I/71h5+MbEK7L._AC_UY625_.jpg",
+    img: "https://user-images.githubusercontent.com/139763023/280342758-073d462a-5231-435d-bfa4-d7d09e78504c.png",
     title: "Amore Fashion Stilettos",
     star: <AiFillStar className="rating-star" />,
     descriptions:"description 1 ",
@@ -293,28 +235,6 @@ const data = [
     company: "Adidas",
     color: "white",
     category: "heels",
-  },
-  {
-    img: "https://m.media-amazon.com/images/I/61uw5RDxKQL._AC_UY625_.jpg",
-    title: "Bridal Sandals Glitter",
-    star: <AiFillStar className="rating-star" />,
-    descriptions:"description 1 ",
-    prevPrice: "$140,00",
-    newPrice: "50",
-    company: "Adidas",
-    color: "black",
-    category: "heels",
-  },
-  {
-    img: "https://m.media-amazon.com/images/I/71yhoZP0l6L._AC_UY695_.jpg",
-    title: "Wedding Prom Bridal",
-    star: <AiFillStar className="rating-star" />,
-    descriptions:"description 1 ",
-    prevPrice: "$140,00",
-    newPrice: "50",
-    company: "Adidas",
-    color: "black",
-    category: "flats",
   },
 ];
 
