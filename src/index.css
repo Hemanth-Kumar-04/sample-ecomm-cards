@@ -1,0 +1,29 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+
+a {
+  text-decoration: none;
+  color: rgb(109, 109, 109);
+}
+
+li {
+  list-style: none;
+}
+
+.btns {
+  padding: 10px 20px;
+  margin-right: 6px;
+  background: transparent;
+  color: #323232;
+  background: rgb(255, 255, 255);
+  border-radius: 17px;
+  border: 2px rgba(0, 0, 0) solid;
+}
+
+.alll{
+  background-color: white;
+}
